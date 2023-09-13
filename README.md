@@ -8,7 +8,7 @@ The results of the current investigation were mixed. Even after log-transformati
 
 The most significant takeaway from the current investigation is the lack of clear-cut segments in the PMD. While it is true that log-transforming the proximity measures did reveal certain density-sparse regions, the clustering algorithms utilized did not consistently identify these regions. As a result, we observed a lack of stability in the clustering results. This is also reflected by the lack of consensus suggested by the cluster validation metrics. Certainly, this does not invalidate the ability of the PMD to accurately judge proximity to amenities; rather, it suggests that proximity to amenities across Canada is a relatively smooth gradient without any obvious natural clusters.
 
-Our final report can be found [here](capstone-statscan-pms/docs/final-report/PMS_finalreport.pdf).
+Our final report can be found [here](/docs/final-report/PMS_finalreport.pdf).
 
 ## Team Members
 
